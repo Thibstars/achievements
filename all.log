@@ -1,0 +1,3 @@
+2020-12-12 12:26:08.142 [main] DEBUG org.github.thibstars.achievements.Achievement - Attempting to unlock achievement.
+2020-12-12 12:26:08.145 [main] INFO  org.github.thibstars.achievements.Achievement - Achievement unlocked!
+2020-12-12 12:26:08.146 [main] INFO  org.github.thibstars.achievements.Achievements - We have achieved the achievement!
